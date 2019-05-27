@@ -13,6 +13,10 @@
 bin/
 gen/
 out/
+android/
+ios/
+__tests__
+node_modules
 
 # Gradle files
 .gradle/
